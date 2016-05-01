@@ -1,0 +1,43 @@
+body {
+	background:  #E8E8E8;
+}
+
+h1, h2, h3, h4{
+	color: #500000;
+	font-family: arial;
+	letter-spacing: 3px;
+	font-weight: bold;
+}
+ li, a{
+	color: #500000;
+	font-family: serif;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+
+		p{
+			color: #000000;
+			font-family: arial;
+			letter-spacing: 1px;
+			background: #00e6e6;
+			padding: 10px 10px 10px 10px;  	
+		}
+ a:link{
+  color:blue;
+}
+
+a:hover{
+  color:yellow;
+}
+
+a:active{
+  color:red;
+}
+
+a:visited{
+  color:black;
+}
+
+a:focus{
+  color:green;
+}
